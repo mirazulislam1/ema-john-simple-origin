@@ -18,3 +18,6 @@
 .header a:hover{
     color: deeppink;
 }
+.btn-logout{
+    margin-left: 10px;
+}

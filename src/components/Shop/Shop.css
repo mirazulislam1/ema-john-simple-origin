@@ -12,3 +12,27 @@
     background: rgba(255, 153, 0, 0.3);
     margin: 10px;
 }
+
+.pagination {
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+.pagination button{
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: mediumvioletred;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 500;
+}
+.selectPage{
+    font-size:x-large;
+    font-weight: 500;
+}
+
+.pagination .selected{
+    background-color: goldenrod;
+    border: gold;
+    font: bold;
+}
